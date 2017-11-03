@@ -1,0 +1,1 @@
+# XMR-Stak-Nvidia-Win64-Prebuild
